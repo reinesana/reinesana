@@ -5,7 +5,7 @@
 
 Hey there! My name is Shana Nursoo, a computer science student at Simon Fraser University located in Vancouver, I'm on a mission to deep into the exciting world of machine learning! But hey, Aside from programming, I'm engaged in scholary writing and philanthropy by heart. 
 
-If you are looking for a aspiring ML engineer whose not only passionate about programming but the welfere of tech community, please email me at 17shana2017@gmail.com
+If you are looking for a aspiring ML engineer whose not only passionate about programming but the welfere of tech community.
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDE1aDJod3U1eWJyaG54OXFsZXNlcXd0b3hzbTZvOW9vamZ5cjd3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lkceXNDw4Agryfrwz8/giphy.gif" />
 
@@ -15,6 +15,7 @@ If you are looking for a aspiring ML engineer whose not only passionate about pr
 - 👯 previous head of STEMempowerment at STEM Fellowship
 - 👨🏽‍💻  member of Women in Computer Science WiCs: a club-based organization aimed to empower woman and divanteageous communities in tech
 - ⚡️ fun-fact: I am working on developing a C++ based pixel game by creating my own pixel architecture and character designs on Adobe photoshop.
+- reach out to me: 17shana2017@gmail.com
 
 <br />
 
