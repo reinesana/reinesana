@@ -11,7 +11,8 @@ If you are looking for a aspiring ML engineer whose not only passionate about pr
 
 <h3>personal info</h3>
 
-- 👾 I’m currently learning time series, neural networks and deeplearning. Check out my my github
+- 👾 I’m currently learning time series, neural networks and deep learning:
+  - check out my <a href="https://shanakesia.netlify.app/">portfolio</a>  ⋆｡ ✩ ⋆₊ °✦ ‧₊ ˚✧
 - 🌀 previous head of STEMempowerment at STEM Fellowship
 - 🛰️ member of Women in Computer Science WiCs: a club-based organization aimed to empower woman and divanteageous communities in tech
 - 💫 fun-fact: I am working on developing a C++ based pixel game by creating my own pixel architecture and character designs on Adobe photoshop.
