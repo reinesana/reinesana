@@ -1,4 +1,4 @@
-### welcome to Shana's github.. 👾
+### <a href="https://emoji.gg/emoji/3958-computer"><img src="https://cdn3.emoji.gg/emojis/3958-computer.gif" width="64px" height="64px" alt="computer"></a>   welcome to Shana's github..
 
 ⤹｡⋆ ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ ☽˚｡˚ 100% programmer
 <br />
@@ -11,11 +11,11 @@ If you are looking for a aspiring ML engineer whose not only passionate about pr
 
 <h3>personal info</h3>
 
-- 🌱 I’m currently learning time series, neural networks and deeplearning. Check out my projects in my github
-- 👯 previous head of STEMempowerment at STEM Fellowship
-- 👨🏽‍💻  member of Women in Computer Science WiCs: a club-based organization aimed to empower woman and divanteageous communities in tech
-- ⚡️ fun-fact: I am working on developing a C++ based pixel game by creating my own pixel architecture and character designs on Adobe photoshop.
-- reach out to me: 17shana2017@gmail.com
+- 👾 I’m currently learning time series, neural networks and deeplearning. Check out my my github
+- 🌀 previous head of STEMempowerment at STEM Fellowship
+- 🛰️ member of Women in Computer Science WiCs: a club-based organization aimed to empower woman and divanteageous communities in tech
+- 💫 fun-fact: I am working on developing a C++ based pixel game by creating my own pixel architecture and character designs on Adobe photoshop.
+- 🛸 reach out to me: 17shana2017@gmail.com
 
 <br />
 
