@@ -3,9 +3,9 @@
 ⤹｡⋆ ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ ☽˚｡˚ 100% programmer
 <br />
 
-Hey there! My name is Shana Nursoo, a computer science student at Simon Fraser University located in Vancouver, I'm on a mission to deep into the exciting world of machine learning! But hey, Aside from programming, I'm engaged in scholary writing and philanthropy by heart. 
+Hey there! My name is Shana Nursoo, a computer science student at Simon Fraser University located in Vancouver, I'm on the path to master the art of machine learning and app development! Aside from programming, I'm engaged in scholary writing and philanthropy by heart. 
 
-If you are looking for a aspiring ML engineer whose not only passionate about programming but the welfere of tech community.
+If you are looking for a aspiring ML engineer whose not only passionate about programming but the welfere of tech community, let's have a chat!
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDE1aDJod3U1eWJyaG54OXFsZXNlcXd0b3hzbTZvOW9vamZ5cjd3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lkceXNDw4Agryfrwz8/giphy.gif" />
 
