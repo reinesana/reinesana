@@ -1,4 +1,4 @@
-### <a href="https://emoji.gg/emoji/3958-computer"><img src="https://cdn3.emoji.gg/emojis/3958-computer.gif" width="64px" height="64px" alt="computer"></a> <br> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=270&size=17&pause=1000&color=F7F7F7E7&random=false&width=435&lines=welcome+to+Shana's+github+.+.+." alt="Typing SVG" /></a>
+### <a href="https://emoji.gg/emoji/3958-computer"><img src="https://cdn3.emoji.gg/emojis/3958-computer.gif" width="64px" height="64px" alt="computer"></a> welcome to Shana's github...
 ⤹｡⋆ ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ ☽˚｡˚ 100% programmer
 <br />
 
