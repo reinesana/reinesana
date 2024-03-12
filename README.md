@@ -19,8 +19,7 @@ If you are looking for a aspiring ML engineer whose not only passionate about pr
 
 <br />
 
-![reinesana's Streak](https://github-readme-streak-stats.herokuapp.com/?user=reinesana&theme=radical&hide_border=false)
-
+![reinesana's Stats](https://github-readme-stats.vercel.app/api?username=reinesana&theme=radical&show_icons=true&hide_border=false&count_private=true)
 <!---
 reinesana/reinesana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
