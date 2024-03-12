@@ -19,7 +19,7 @@ If you are looking for a aspiring ML engineer whose not only passionate about pr
 
 <br />
 
-![reinesana's Streak](https://github-readme-streak-stats.herokuapp.com/?user=reinesana&theme=radical&hide_border=false)
+![reinesana's Streak](https://github-readme-streak-stats.herokuapp.com/?user=reinesana&theme=radical&hide_border=false))
 
 
 <!---
