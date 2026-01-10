@@ -1,26 +1,22 @@
 ### <a href="https://emoji.gg/emoji/3958-computer"><img src="https://cdn3.emoji.gg/emojis/3958-computer.gif" width="64px" height="64px" alt="computer"></a> welcome to Shana's github...
-⤹｡⋆ ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ ☽˚｡˚ 100% programmer
+⤹｡⋆ ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ ☽˚｡˚ sigma programmer
 <br />
 
-My name is Shana Nursoo, a data science student at Simon Fraser University located in Vancouver, I'm on the path to master the art of machine learning and app development! Aside from programming, I'm engaged in scholary writing and philanthropy by heart. 
+I’m **Shana Nursoo**, studying at **Simon Fraser University** and a **2× Microsoft Software Engineering Intern**, based in **Vancouver** 🦄
 
-If you are looking for a aspiring ML engineer whose not only passionate about programming but the welfere of tech community, let's have a chat!
+I am a **2x Microsoft Intern** and **Tech Content Creator** on Linkedin and Tiktok building agentic AI systems.
 
- <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDE1aDJod3U1eWJyaG54OXFsZXNlcXd0b3hzbTZvOW9vamZ5cjd3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lkceXNDw4Agryfrwz8/giphy.gif" />
+I’ve worked with **Big Tech** including Microsoft & Amazon Web Services, shipping tools and products for **B2B clients** and **company-wide orgs**. 
+
+Outside of work, I love hackathons, gyming and gaming (my fav is the Persona Series) 
+
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDE1aDJod3U1eWJyaG54OXFsZXNlcXd0b3hzbTZvOW9vamZ5cjd3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lkceXNDw4Agryfrwz8/giphy.gif" />
 
 <h3>personal info</h3>
 
-- 👾 I’m currently learning time series, neural networks and deep learning:
--  🛰️ 2x SWE Intern @ Microsoft, AWS
-- check out my <a href="https://shanakesia.netlify.app/">portfolio</a>  ⋆｡ ✩ ⋆₊ °✦ ‧₊ ˚✧
-- 🌀 previous head of STEMempowerment at STEM Fellowship
-- 🛸 reach out to me: 17shana2017@gmail.com
-
-<br />
-
-![reinesana's Streak](https://github-readme-streak-stats.herokuapp.com/?user=reinesana&theme=radical&hide_border=false)
-
-<!---
-reinesana/reinesana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **2× SWE Intern** @ Microsoft · Amazon
+- CS content creator with 8k+ on <a href="https://www.linkedin.com/in/shana-nursoo-363826189/">LinkedIn</a> and 2k+ on (<a href="https://www.tiktok.com/@reinesana.ai">Tiktok</a> + <a href="https://www.instagram.com/reinesana.ai/">Instagram</a>) 🦄
+- Hackathon winner + **Undergraduate Women in STEM Award** (2024, 2025) 🏆
+- Former Head of **STEM Empowerment** @ STEM Fellowship
+- Personal Portfolio: <a href="https://shanakesia.netlify.app/">shana.dev</a>
