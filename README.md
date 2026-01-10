@@ -2,7 +2,7 @@
 ⤹｡⋆ ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ ☽˚｡˚ sigma programmer
 <br />
 
-I’m **Shana Nursoo**, studying at **Simon Fraser University** and a **2× Microsoft Software Engineering Intern**, based in **Vancouver** 🦄
+I’m **Shana Nursoo**, studying software engineering and data science at **Simon Fraser University**, based in **Vancouver** 🦄
 
 I am a **2x Microsoft Intern** and **Tech Content Creator** on Linkedin and Tiktok building agentic AI systems.
 
