@@ -11,7 +11,6 @@ I’ve worked with **Big Tech** including Microsoft & Amazon Web Services, shipp
 Outside of work, I love hackathons, gyming and gaming (my fav is the Persona Series) 
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDE1aDJod3U1eWJyaG54OXFsZXNlcXd0b3hzbTZvOW9vamZ5cjd3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lkceXNDw4Agryfrwz8/giphy.gif" />
 
 <h3>personal info</h3>
 
