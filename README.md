@@ -4,7 +4,7 @@
 
 I’m **Shana Nursoo**, studying data science at **Simon Fraser University**, based in **Vancouver** 🦄
 
-I am a **2x Microsoft SWE Intern** and **Tech Content Creator** with over 17k+ across socials building agentic AI systems.
+I am a **2x Microsoft SWE Intern** and a **Tech Creator (17K+)** across Tiktok, Instagram and Linkedin. Currently building agentic AI systems.
 
 I’ve worked with **Big Tech** including Microsoft & Amazon Web Services to ship tools and products for **B2B clients** and **company-wide orgs**. 
 
